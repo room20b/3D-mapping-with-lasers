@@ -8,4 +8,4 @@ $ python cam.py (to run the entire setup)
 
 $ python GLmap.py (to generate the 3D point cloud using the data collected)
 
-#### The procedure, analysis and results are published and in the paper.
+#### The procedure, analysis and results are published in the paper, email me for access.
